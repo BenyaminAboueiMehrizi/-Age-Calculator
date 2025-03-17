@@ -45,7 +45,4 @@ python main.py
 
 If you have suggestions or want to enhance the project, feel free to contribute! 🚀
 
----
-
-Would you like to customize anything or add additional details? Let me know! ✨
 
